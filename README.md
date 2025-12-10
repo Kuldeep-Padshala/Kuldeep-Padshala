@@ -20,7 +20,7 @@
   </a>
   <a href="https://github.com/Kuldeep-Padshala">
     <img src="https://img.shields.io/badge/⚡_MERN_Stack-61DAFB?style=for-the-badge&logoColor=white&labelColor=0A0A0A" alt="MERN Stack Badge"/>
-  </a>
+  </a>  
   <a href="https://github.com/Kuldeep-Padshala">
     <img src="https://img.shields.io/badge/🛢️_MongoDB-FF6B35?style=for-the-badge&logoColor=white&labelColor=0A0A0A" alt="AI/ML Badge"/>
   </a>
@@ -34,34 +34,37 @@
       <h2>🚀 About Me</h2>
       <div>
       <ul>
-      <li><b>name:</b> Tirth Parmar</li>
-      <li><b>role:</b> Cybersecurity Strategist & Full-Stack Developer</li>
-      <li><b>location:</b> ["Gujarat", "India"]</li>
-      <li><b>education:</b> B.Tech CSE @ Darshan University ('27)</li>
-      <li><b>interests:</b> ["Ethical Hacking", "AI/ML", "Reverse Engineering"]</li>
-      <li><b>currently_learning:</b> ["Advanced Penetration Testing", "Machine Learning"]</li>
-      <li><b>fun_fact:</b> "I build systems and then figure out how to break them! 😄</li>
+      <li><b>name:</b> Kuldeep Padshala</li>
+      <li><b>role:</b> Full-Stack Developer & DSA Enthusiast</li>
+      <li><b>location:</b> ["Rajkot", "Gujarat", "India"]</li>
+      <li><b>education:</b> B.Tech CSE @ Darshan University (2nd Year)</li>
+      <li><b>CPI:</b> 9.18</li>
+      <li><b>skills:</b> ["DSA", "Problem Solving", "Python", "DBMS"]</li>
+      <li><b>currently_learning:</b> ["MERN Stack", "Advanced DSA"]</li>
+      <li><b>fun_fact:</b> "I break problems before they break me! 😄"</li>
       </ul>
       <br>
-      <p>
+
       <ul>
-        <li>🔐 <b>Offensive Security Enthusiast</b> with a passion for building bulletproof applications<br/></li>
-        <li>🏗️ <b>Full-Stack Architect</b> specializing in MERN stack development<br/></li>
-        <li>🔍 <b>Reverse Engineer</b> who loves diving deep into system internals<br/></li>
-        <li>🤖 <b>AI/ML Explorer</b> applying intelligence to cybersecurity challenges<br/></li>
-        <li>📚 <b>Continuous Learner</b> always staying ahead of emerging threats</li>
+        <li>🧠 <b>DSA Enthusiast</b> with strong problem-solving foundations<br/></li>
+        <li>💻 <b>Full-Stack Developer (Learning MERN)</b> building scalable web apps<br/></li>
+        <li>🐍 <b>Python Programmer</b> exploring automation & backend logic<br/></li>
+        <li>🗄️ <b>DBMS Knowledgeable</b> with real SQL & relational database experience<br/></li>
+        <li>🚀 <b>Always Leveling Up</b> through projects, practice & new tech</li>
       </ul>
-      </p>
     </div>
     </td>
+
     <td width="45%" align="center">
-      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px" alt="Coding animation"/>
+      <img src="images/Side.gif" width="300px" alt="Coding animation"/>
       <div align="center" style="margin-top: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogtirth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="300px" alt="Top Languages"/>
+        <!-- Replace with actual badge links -->
+        <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,mongodb,express,react,nodejs,git" />
       </div>
     </td>
   </tr>
 </table>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/>
 
