@@ -54,7 +54,7 @@
     </div>
     </td>
     <td width="45%" align="center">
-      <img src="images/Right_Side.gif" width="300px" alt="Coding animation"/>
+      <img src="images/about_me.gif" width="300px" alt="Coding animation"/>
       <div align="center" style="margin-top: 20px;">
         <!-- Replace with actual badge links -->
         <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,mongodb,express,react,nodejs,git" />
