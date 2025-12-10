@@ -8,7 +8,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=34&duration=3500&pause=1000&vCenter=true&width=600&lines=%F0%9F%9B%A0%EF%B8%8F+DSA+Enthusiast+;%F0%9F%92%BB+Full-Stack+Learner;%F0%9F%92%A1+Problem+Solver;%F0%9F%9A%80+Tech+Explorer" alt="Typing SVG" />
 
 <div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="400" alt="Developer working"/>
+  <!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="400" alt="Developer working"/> -->
+  <img src="images/about_me.gif" width="400" alt="Hacker"/>
 </div>
 
 <div align="center">
@@ -54,7 +55,7 @@
     </div>
     </td>
     <td width="45%" align="center">
-      <img src="images/about_me.gif" width="300px" alt="Coding animation"/>
+      <img src="images/Right_Side.gif" width="300px" alt="Coding animation"/>
       <div align="center" style="margin-top: 20px;">
         <!-- Replace with actual badge links -->
         <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,mongodb,express,react,nodejs,git" />
