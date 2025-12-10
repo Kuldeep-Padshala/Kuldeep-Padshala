@@ -13,16 +13,16 @@
 
 <div align="center">
   <a href="https://github.com/Kuldeep-Padshala">
-    <img src="https://img.shields.io/badge/🎯_OSINT-00D9FF?style=for-the-badge&logoColor=white&labelColor=0A0A0A" alt="OSINT Badge"/>
+    <img src="https://img.shields.io/badge/🎯_Leetcode?style=for-the-badge&logoColor=white&labelColor=0A0A0A" alt="OSINT Badge"/>
   </a>
   <a href="https://github.com/Kuldeep-Padshala">
-    <img src="https://img.shields.io/badge/🔴_Penetration_Testing-FF3366?style=for-the-badge&logoColor=white&labelColor=0A0A0A" alt="Pentesting Badge"/>
+    <img src="https://img.shields.io/badge/📋_Kaggle-FF3366?style=for-the-badge&logoColor=white&labelColor=0A0A0A" alt="Pentesting Badge"/>
   </a>
   <a href="https://github.com/Kuldeep-Padshala">
     <img src="https://img.shields.io/badge/⚡_MERN_Stack-61DAFB?style=for-the-badge&logoColor=white&labelColor=0A0A0A" alt="MERN Stack Badge"/>
   </a>
   <a href="https://github.com/Kuldeep-Padshala">
-    <img src="https://img.shields.io/badge/🧠_AI_&_ML-FF6B35?style=for-the-badge&logoColor=white&labelColor=0A0A0A" alt="AI/ML Badge"/>
+    <img src="https://img.shields.io/badge/🛢️_MongoDB-FF6B35?style=for-the-badge&logoColor=white&labelColor=0A0A0A" alt="AI/ML Badge"/>
   </a>
 </div>
 
