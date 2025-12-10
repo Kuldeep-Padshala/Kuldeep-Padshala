@@ -6,10 +6,10 @@
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&center=false&vCenter=true&width=600&lines=DSA+Enthusiast+%F0%9F%9B%A0%EF%B8%8F;Full-Stack+Learner+%F0%9F%92%BB;Problem+Solver+%F0%9F%92%A1;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" /> -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=34&duration=3500&pause=1000&vCenter=true&width=600&lines=%F0%9F%9B%A0%EF%B8%8F+DSA+Enthusiast+;%F0%9F%92%BB+Full-Stack+Learner;%F0%9F%92%A1+Problem+Solver;%F0%9F%9A%80+Tech+Explorer" alt="Typing SVG" />
-
+<br>
 <div align="center">
   <!-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="400" alt="Developer working"/> -->
-  <img src="images/about_me.gif" width="400" alt="Hacker"/>
+  <img src="images/about_me.gif" width="300" alt="Hacker"/>
 </div>
 
 <div align="center">
