@@ -74,16 +74,18 @@
 
 
 <div>
-        <img src="https://github-stats-alpha.vercel.app/api?username=Kuldeep-Padshala&cc=141414&tc=37BCF6&ic=fff&bc=000000"
-                height="350" alt="github stats">
+        <img src="https://github-stats-alpha.vercel.app/api?username=Kuldeep-Padshala&cc=141414&tc=37BCF6&ic=fff&bc=ffffff"
+                height="550" alt="github stats">
 
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuldeep-Padshala&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
                 height="150" alt="languages graph" /> -->
-</div><br>
+</div>
+<!-- <br> -->
 
 <div> 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kuldeep-Padshala&layout=compact&langs_count=8&theme=algolia"/>
-</div><br>
+</div>
+<!-- <br> -->
 
 <div> 
   <img src="https://streak-stats.demolab.com?user=Kuldeep-Padshala&theme=dark" alt="GitHub Streak" />
