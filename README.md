@@ -80,16 +80,13 @@
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuldeep-Padshala&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
                 height="150" alt="languages graph" /> -->
 </div>
-<!-- <br> -->
+<br>
 
 <div> 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kuldeep-Padshala&layout=compact&langs_count=8&theme=dark"/>
+<img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kuldeep-Padshala&layout=compact&langs_count=8&theme=dark"/>
+<img height="200em" src="https://streak-stats.demolab.com?user=Kuldeep-Padshala&theme=dark" alt="GitHub Streak" />
 </div>
 <!-- <br> -->
-
-<div> 
-  <img src="https://streak-stats.demolab.com?user=Kuldeep-Padshala&theme=dark" alt="GitHub Streak" />
-</div>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/>
