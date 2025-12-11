@@ -74,7 +74,7 @@
 
 
 <div>
-        <img src="https://github-stats-alpha.vercel.app/api?username=Kuldeep-Padshala&cc=141414&tc=37BCF6&ic=fff&bc=FFF5EE"
+        <img src="https://github-stats-alpha.vercel.app/api?username=Kuldeep-Padshala&cc=141414&tc=37BCF6&ic=fff&bc=CCCCCC"
                 height="550" alt="github stats">
 
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuldeep-Padshala&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
