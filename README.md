@@ -101,9 +101,19 @@
   </a>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%" alt="Footer"/>
+<div align="center">
+
+### 📧 Reach Out For:
+ 🤝 **Collaboration** on exciting projects <br>
+ 💡 **Consultation** on web development<br>
+ 🔒 **Discussion** about cybersecurity<br>
+ 🚀 **Opportunities** in tech<br>
+
 </div>
+
+<!-- <div align="center" style="margin-top: 20px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%" alt="Footer"/>
+</div> -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kuldeep-Padshala&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -123,4 +133,4 @@
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/> -->
