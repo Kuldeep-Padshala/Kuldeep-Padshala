@@ -110,4 +110,17 @@
   <img src="https://img.shields.io/github/followers/Kuldeep-Padshala?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0A0A0A" alt="Followers" />
 </div>
 
+<div align="center">
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+### ☕ Thanks for scrolling this far! Stay curious, stay creative.
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<em><b>Catch you in the next repo! Let's stay connected.</b> 😊</em>
+
+</div>
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/>
