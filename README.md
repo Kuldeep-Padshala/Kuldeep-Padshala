@@ -75,7 +75,28 @@
 
 </div>
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/>
+
+
+<h2 align="left">🔥 My Stats </h2>
+
+<div align="center">
+        <img src="https://github-stats-alpha.vercel.app/api?username=Kuldeep-Padshala&cc=141414&tc=37BCF6&ic=fff&bc=fa8900"
+                height="150" alt="github stats">
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuldeep-Padshala&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+                height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+        <img src="https://streak-stats.demolab.com?user=Kuldeep-Padshala&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"
+                height="220" alt="streak graph" />
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/>
+
 
 ## 🐍 Contributions
 
