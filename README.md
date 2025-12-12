@@ -91,11 +91,14 @@
   <img height="200em"
        src="https://streak-stats.demolab.com?user=Kuldeep-Padshala&theme=dark" />
 
-  &nbsp;
-
   <img height="200em"
        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kuldeep-Padshala&layout=compact&langs_count=8&theme=dark"/>
 </div>
+
+| | |
+| - | - |
+| <img height="200em" src="https://streak-stats.demolab.com?user=Kuldeep-Padshala&theme=dark" alt="GitHub Streak" /> | <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kuldeep-Padshala&layout=compact&langs_count=8&theme=dark" alt="Top Languages" /> |
+
 
 
 <!-- <br> -->
