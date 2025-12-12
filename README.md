@@ -76,7 +76,7 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/> -->
 
-<div>
+<div align="center">
   <a href="https://github.com/Kuldeep-Padshala">
     <img src="https://github-stats-alpha.vercel.app/api?username=Kuldeep-Padshala&cc=141414&tc=37BCF6&ic=fff&bc=CCCCCC"
                 height="550" alt="github stats">
@@ -87,9 +87,13 @@
 </div>
 <br>
 
-<div> 
-<img height="200em" src="https://streak-stats.demolab.com?user=Kuldeep-Padshala&theme=dark" alt="GitHub Streak" />
-<img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kuldeep-Padshala&layout=compact&langs_count=8&theme=dark"/>
+<div>
+  <div align="left"> 
+    <img height="200em" src="https://streak-stats.demolab.com?user=Kuldeep-Padshala&theme=dark" alt="GitHub Streak" />
+  </div>
+  <div align="right"> 
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kuldeep-Padshala&layout=compact&langs_count=8&theme=dark"/>
+  </div> 
 </div>
 <!-- <br> -->
 
