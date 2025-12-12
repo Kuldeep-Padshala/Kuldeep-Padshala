@@ -78,7 +78,7 @@
 
 <div align="center">
   <a href="https://github.com/Kuldeep-Padshala">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Kuldeep-Padshala&cc=141414&tc=37BCF6&ic=fff&bc=CCCCCC"
+    <img src="https://github-stats-alpha.vercel.app/api?username=Kuldeep-Padshala&cc=141414&tc=37BCF6&ic=fff&bc=cccccc"
                 height="550" alt="github stats">
   </a>       
 
@@ -87,14 +87,14 @@
 </div>
 <br>
 
-<div>
+<!-- <div>
   <img height="200em" src="https://streak-stats.demolab.com?user=Kuldeep-Padshala&theme=dark" />
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kuldeep-Padshala&layout=compact&langs_count=8&theme=dark"/>
-</div>
+</div> -->
 
-| | |
-| - | - |
-| <img height="200em" src="https://streak-stats.demolab.com?user=Kuldeep-Padshala&theme=dark" alt="GitHub Streak" /> | <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kuldeep-Padshala&layout=compact&langs_count=8&theme=dark" alt="Top Languages" /> |
+<!-- | | | -->
+<!-- | - | - | -->
+<!-- | <img height="200em" src="https://streak-stats.demolab.com?user=Kuldeep-Padshala&theme=dark" alt="GitHub Streak" /> | <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kuldeep-Padshala&layout=compact&langs_count=8&theme=dark" alt="Top Languages" /> | -->
 
 <table>
   <tr>
