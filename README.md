@@ -87,12 +87,11 @@
 </div>
 <br>
 
-<div> 
-    <img height="200em" src="https://streak-stats.demolab.com?user=Kuldeep-Padshala&theme=dark" alt="GitHub Streak" />
-    <div width="20em"> </div>
-    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kuldeep-Padshala&layout=compact&langs_count=8&theme=dark"/>
-  </div> 
+<div>
+  <img height="200em" src="https://streak-stats.demolab.com?user=Kuldeep-Padshala&theme=dark" alt="GitHub Streak" style="margin-right: 20px;" />
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kuldeep-Padshala&layout=compact&langs_count=8&theme=dark"/>
 </div>
+
 <!-- <br> -->
 
 
