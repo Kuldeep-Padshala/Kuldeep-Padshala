@@ -34,7 +34,8 @@
 <table>
   <tr>
     <td width="55%">
-      <h2>🚀 About Me</h2>
+      <!-- <h2>🚀 About Me</h2> -->
+      ## 🚀 About Me
       <div>
       <ul>
       <li><b>name:</b> Kuldeep Padshala</li>
@@ -113,7 +114,8 @@
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Colorful line break"/> -->
 ---
 
-<h2 align="center">🌐 Let's Connect & Collaborate</h2>
+<!-- <h2 align="center">🌐 Let's Connect & Collaborate</h2> -->
+## 🌐 Let's Connect & Collaborate
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kuldeep-padshala-5434b9242/">
