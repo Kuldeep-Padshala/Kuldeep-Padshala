@@ -95,16 +95,14 @@
 <!-- | | | -->
 <!-- | - | - | -->
 <!-- | <img height="200em" src="https://streak-stats.demolab.com?user=Kuldeep-Padshala&theme=dark" alt="GitHub Streak" /> | <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kuldeep-Padshala&layout=compact&langs_count=8&theme=dark" alt="Top Languages" /> | -->
-      
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kuldeep-Padshala&theme=dark)](https://git.io/streak-stats)
 
-<table>
+<table align="center">
   <tr>
-    <td style="padding-right: 20px;">
-      <img height="200em" src="https://streak-stats.demolab.com?user=Kuldeep-Padshala&theme=dark" alt="GitHub Streak" />
+    <td>
+      <img height="200em" src="https://streak-stats.demolab.com?user=Kuldeep-Padshala&theme=dark"/>
     </td>
     <td>
-      <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kuldeep-Padshala&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep-Padshala&layout=compact&theme=dark"/>
     </td>
   </tr>
 </table>
