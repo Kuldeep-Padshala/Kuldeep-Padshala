@@ -39,7 +39,7 @@
   <tr>
     <td width="55%">
       <!-- <h2>🚀 About Me</h2> -->
-      <h3> 🚀 About Me <h3>
+      <h3> 🚀 About Me </h3>
       <div>
       <ul>
       <li><b>name:</b> Kuldeep Padshala</li>
