@@ -100,9 +100,9 @@
   <tr>
     <td>
       <img height="200em" src="https://streak-stats.demolab.com?user=Kuldeep-Padshala&theme=dark" />
-      <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kuldeep-Padshala&theme=dark" alt="GitHub Streak" /></a> -->
       
-    </td>
+      
+  </td>
     <td>
       <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep-Padshala&layout=compact&theme=dark"/>
     </td>
