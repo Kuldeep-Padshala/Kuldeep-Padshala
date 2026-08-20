@@ -99,8 +99,8 @@
 <table align="center">
   <tr>
     <td>
-      <img height="200em" src="https://streak-stats.demolab.com?user=Kuldeep-Padshala&theme=dark" />
-      
+      <!-- <img height="200em" src="https://streak-stats.demolab.com?user=Kuldeep-Padshala&theme=dark" /> -->
+      [![GitHub Streak](https://streak-stats.demolab.com?user=Kuldeep-Padshala&theme=dark)](https://git.io/streak-stats)
       
   </td>
     <td>
